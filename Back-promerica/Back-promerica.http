@@ -1,0 +1,6 @@
+@Back_promerica_HostAddress = http://localhost:5258
+
+GET {{Back_promerica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
